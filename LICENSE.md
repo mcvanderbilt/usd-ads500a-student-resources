@@ -1,4 +1,4 @@
-# Educational Use License — National University (ANA600 & ANA605)
+# Educational Use License — University of San Diego (ADS500A)
 
 Copyright (c) 2026  
 Matthew C. Vanderbilt  
@@ -9,10 +9,9 @@ All rights reserved.
 ## 1. Authorized Users
 
 Permission is granted exclusively to students currently enrolled in the following
-National University courses taught by Matthew C. Vanderbilt:
+University of San Diego courses taught by Matthew C. Vanderbilt:
 
-- ANA600 — Fundamentals of Analytics  
-- ANA605 — Analytic Models & Data Systems  
+- ADS500A — Probability & Statistics for Data Science  
 
 No other individuals or entities are permitted to use, copy, modify, or access
 these materials.
@@ -25,7 +24,7 @@ Enrolled students may:
 
 - View and download the materials  
 - Modify the code solely for completing assigned coursework  
-- Submit modified versions as part of ANA600/ANA605 assignments  
+- Submit modified versions as part of ADS500A assignments  
 
 No additional rights are granted.
 
@@ -36,10 +35,10 @@ No additional rights are granted.
 Any modification or derivative work must include:
 
 - The statement:  
-  “Modified from original code by Matthew C. Vanderbilt for ANA600/ANA605 coursework.”
+  “Modified from original code by Matthew C. Vanderbilt for ADS500A coursework.”
 - A brief description of the changes made  
 - The student’s full name  
-- The student’s National University student ID  
+- The student’s University of San Diego student ID  
 
 Attribution must remain intact in all submitted work.
 

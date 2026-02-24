@@ -1,13 +1,12 @@
 # NOTICE
 
 This repository contains instructional materials created by  
-**Matthew C. Vanderbilt** for use in the following National University courses:
+**Matthew C. Vanderbilt** for use in the following University of San Diego courses:
 
-- ANA600 — Fundamentals of Analytics  
-- ANA605 — Analytic Models & Data Systems  
+- ADS500A — Probability & Statistics for Data Science  
 
 Use of this code is governed by the accompanying  
-**Educational Use License — National University (ANA600 & ANA605)**.
+**Educational Use License — University of San Diego (ADS500A)**.
 
 Students are permitted to use and modify the code solely for completing
 coursework. Redistribution, posting to external sites, commercial use, and

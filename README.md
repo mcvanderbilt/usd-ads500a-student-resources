@@ -1,5 +1,5 @@
-# ANA600 & ANA605 — Additional Resources Repository  
-National University  
+# ADS500A — Additional Resources Repository  
+University of San Diego
 Instructor: Matthew C. Vanderbilt
 
 ---
@@ -8,8 +8,7 @@ Instructor: Matthew C. Vanderbilt
 
 This repository provides **additional resources, datasets, templates, and instructional examples** for students enrolled in:
 
-- **ANA600 — Fundamentals of Analytics**
-- **ANA605 — Analytic Models & Data Systems**
+- **ADS500A — Probability & Statistics for Data Science**
 
 These materials **supplement the core course content** and offer extended opportunities for:
 
