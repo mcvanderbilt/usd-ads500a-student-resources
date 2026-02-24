@@ -70,7 +70,7 @@ Violations may result in academic integrity actions.
 ## 📄 Full License
 
 See the file:  
-**`LICENSE` — Educational Use License (ANA600 & ANA605)**
+**`LICENSE` — Educational Use License (ADS500A)**
 
 This license governs:
 
